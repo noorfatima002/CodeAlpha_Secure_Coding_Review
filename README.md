@@ -1,2 +1,2 @@
 # Secure_Coding_Review
-Secure Coding Review is a project focused on identifying security vulnerabilities in code and applying secure coding practices to make software safer, more reliable, and secure.
+Secure Coding Review is a professional code analysis project focused on identifying potential security vulnerabilities and improving the overall security, quality, and reliability of software. The project emphasizes secure coding practices, systematic code review, and proactive identification of security risks to support the development of safer and more maintainable applications.
